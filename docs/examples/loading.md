@@ -24,7 +24,7 @@
 <code-caption>index.vue</code-caption>
 {include:examples/loading/index.vue}
 
-<code-caption>LoadContent.vue</code-caption>
+<code-caption>Loading.vue</code-caption>
 {include:examples/loading/Loading.vue}
 
 ## コメント
